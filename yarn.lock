@@ -3638,9 +3638,9 @@ gensync@^1.0.0-beta.2:
   integrity sha512-3hN7NaskYvMDLQY55gnW3NQ+mesEAepTqlg+VEbj7zzqEMBVNhzcGYYeqFo/TlYz6eQiFcp1HcsCZO+nGgS8zg==
 
 get-east-asian-width@^1.0.0, get-east-asian-width@^1.3.1, get-east-asian-width@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/get-east-asian-width/-/get-east-asian-width-1.5.0.tgz#ce7008fe345edcf5497a6f557cfa54bc318a9ce7"
-  integrity sha512-CQ+bEO+Tva/qlmw24dCejulK5pMzVnUOFOijVogd3KQs07HnRIgp8TGipvCCRT06xeYEbpbgwaCxglFyiuIcmA==
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/get-east-asian-width/-/get-east-asian-width-1.6.0.tgz#216900f91df11a8b2c198c3e1d93d6c035a776b9"
+  integrity sha512-QRbvDIbx6YklUe6RxeTeleMR0yv3cYH6PsPZHcnVn7xv7zO1BHN8r0XETu8n6Ye3Q+ahtSarc3WgtNWmehIBfA==
 
 get-intrinsic@^1.1.3, get-intrinsic@^1.2.1, get-intrinsic@^1.2.3, get-intrinsic@^1.2.4:
   version "1.2.4"
@@ -4332,9 +4332,9 @@ lines-and-columns@^1.1.6:
   integrity sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==
 
 lint-staged@^17.0.0:
-  version "17.0.2"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-17.0.2.tgz#722692fe789eb5240f5bf0851aa285cbf359bce3"
-  integrity sha512-Rbr6rdmbCn1fIDHBZpn0madg0hEkdlh+QwajnL3Qq0ZUq/icAJfLGj9BVBajAXi7657ZzKQ7kobGP9S5XOHYRw==
+  version "17.0.3"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-17.0.3.tgz#d2bdb92a76589f3495e31c2ef006f68232e3d091"
+  integrity sha512-wnvMRhzC3GNpjixxleiG+pAW09dHTUgBCjMS7XouAg5E7wKUc8YdfogpF7zIgvXKDbH+452O6+XpnKm6V67rPw==
   dependencies:
     listr2 "^10.2.1"
     picomatch "^4.0.4"
@@ -5348,9 +5348,9 @@ string-width@^7.0.0:
     strip-ansi "^7.1.0"
 
 string-width@^8.2.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/string-width/-/string-width-8.2.0.tgz#bdb6a9bd6d7800db635adae96cdb0443fec56c42"
-  integrity sha512-6hJPQ8N0V0P3SNmP6h2J99RLuzrWz2gvT7VnK5tKvrNqJoyS9W4/Fb8mo31UiPvy00z7DQXkP2hnKBVav76thw==
+  version "8.2.1"
+  resolved "https://registry.yarnpkg.com/string-width/-/string-width-8.2.1.tgz#165089cfa527cc88fbc23dd73313f5e334af1ea1"
+  integrity sha512-IIaP0g3iy9Cyy18w3M9YcaDudujEAVHKt3a3QJg1+sr/oX96TbaGUubG0hJyCjCBThFH+tFpcIyoUHUn1ogaLA==
   dependencies:
     get-east-asian-width "^1.5.0"
     strip-ansi "^7.1.2"
