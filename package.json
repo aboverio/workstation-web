@@ -57,7 +57,7 @@
     "eslint-config-next": "16.2.6",
     "husky": "^9.0.0",
     "lint-staged": "^17.0.0",
-    "npm-run-all2": "^8.0.0",
+    "npm-run-all2": "^9.0.0",
     "prettier": "^3.0.0",
     "ts-loader": "^9.2.8",
     "typescript": "~6.0.0"
