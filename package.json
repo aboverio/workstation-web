@@ -44,7 +44,7 @@
     "sass": "^1.49.9"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.8",
+    "@babel/core": "^8.0.0",
     "@svgr/webpack": "^8.0.0",
     "@types/cookie": "^1.0.0",
     "@types/moment": "^2.13.0",
