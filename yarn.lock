@@ -3087,9 +3087,9 @@ cookie@*:
   integrity sha512-Xd8lFX4LM9QEEwxQpF9J9NTUh8pmdJO0cyRJhFiDoLTk2eH8FXlRv2IFGYVadZpqI3j8fhNrSdKCeYPxiAhLXw==
 
 cookie@^2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/cookie/-/cookie-2.0.1.tgz#1fc7e9bddf38fa9567cd4d750820087cdb5d6e98"
-  integrity sha512-yuToqVvRrj6pfDXREyQAAv8SkAEk/8GS3jQRTiUMm66TVtBYmqQeoEjL2Lmq8Rpo6271vH76InTChTitEAm65w==
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/cookie/-/cookie-2.0.2.tgz#b2bedc2ea3bd858df56dbbed1d82c24a77a9471b"
+  integrity sha512-SL0cVuEdETEp7pN0FuZb01toc3vnODEfVUCooxG1SJN0yIirh7JMb9X9bvfCFf0vzzbT68RdbKDHYTiWy7a7iw==
 
 core-js-compat@^3.31.0, core-js-compat@^3.36.1:
   version "3.37.0"
